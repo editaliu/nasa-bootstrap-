@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.row{
+    margin-top: 20px;
+}
+
+div span[class^="g"]{
+    width: 80px;
+}
+
+img{
+    width: 100%;
+}
+
+
+
+
